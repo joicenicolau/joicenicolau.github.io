@@ -3,7 +3,7 @@ Meu Portfólio Web
 
 Nesta atividade tive a seguinte porposta: 
 
-## Construindo seu primeiro Portfólio Web!
+### Construindo seu primeiro Portfólio Web!
 
 Você deve seguir as instruções a seguir e fazer o setup para o exercício de hoje:
 
@@ -15,7 +15,7 @@ Você deve seguir as instruções a seguir e fazer o setup para o exercício de 
 
 4. Para executar o seu código enquanto o desenvolve, utilize a extensão Live Server;
 
-##Requisitos
+### Requisitos
 
 Seu Portfólio Web deve ter as seguintes informações:
 
